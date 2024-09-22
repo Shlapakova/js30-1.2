@@ -1,0 +1,34 @@
+{
+  "songs": [
+    {
+      "name": "Toter Schmetting",
+      "artist": "Klangkuenstler, Sant",
+      "src": "assets/audio/schrotthagen.flac",
+      "img": "assets/img/schrotthagen.jpg"
+    },
+    {
+      "name": "Herz Am Rasen",
+      "artist": "Johannes Schuster, 9inebro",
+      "src": "assets/audio/greg-notill.flac",
+      "img": "assets/img/greg-notill.jpg"
+    },
+    {
+      "name": "Party Party Party",
+      "artist": "Greg Notill",
+      "src": "assets/audio/johannes-schuster.flac",
+      "img": "assets/img/johannes-schuster.jpg"
+    },
+    {
+      "name": "Pain in my Heart",
+      "artist": "Schrotthagen",
+      "src": "assets/audio/klangkuenstler.flac",
+      "img": "assets/img/klangkuenstler.jpg"
+    },
+    {
+      "name": "Eisklt",
+      "artist": "Kobosil, Kuko",
+      "src": "assets/audio/kobosil.flac",
+      "img": "assets/img/kobosil.jpg"
+    }
+  ]
+}
